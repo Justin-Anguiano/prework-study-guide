@@ -14,13 +14,12 @@ N/A
 
 ## Usage
 
-Intructions to use this are rather easy. Simply go to url, http://127.0.0.1:5500/prework-study-guide/index.html 
-and scroll down to topic of choice that you'd like to learn a bit about. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
-See screen shots of URL and Topics:
+Instructions to use this are rather easy. Simply open the page and scroll down to topic of choice that you'd like to learn a bit about. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). 
+A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+See screen shot of Topics:
 
 [Topics Screen Shot](assets/images/Topics-Screen-Shot.png)
-
-[URL Screen Shot](assests/images/URL-Screen-Shot.png)
+[Console.Log Screen Shot](assets/images/Console.Log.png)
 
 ## Credits
 
